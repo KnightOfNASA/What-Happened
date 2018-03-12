@@ -11,6 +11,8 @@ A simple research project that aims to find the ghostwriter(s) behind "What Happ
 
 As of March 2018, all of the ghostwriters of the books published under the "Hillary Clinton" name have been identified except for "What Happened". Thus, the outcome of the project will not be verifiable, until the ghostwriter(s)' identity are revealed at a later date. As such, and because the author is not a professional nor studying computer science or linguistics, the data provided by this project is not concrete, and the project merely a hobby. If the ghostwriter(s)' identity are revealed before the project's conclusion, the project will terminate. 
 
+This project will not comment on the content of the text, as this text have no academic value, being a ghostwritten work with no means to discern the voice of the ghostwriter(s) and their subjects and thus no way to verify the event described in the text. The author also have no expertise to comment on the content. For actual, verifiable, and credible sources about the events related to the text, please find works done by experts in relevant field. 
+
 # Method
 The project will analyze the text in two ways: reading the text and using R stylometry analysis. 
 
